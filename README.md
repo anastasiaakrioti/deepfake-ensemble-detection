@@ -5,7 +5,7 @@ This repository serves as the landing page for the implementation code of the re
 
 The project proposes a robust deepfake detection framework leveraging an ensemble of four state-of-the-art CNN architectures, optimized via an adaptive weighted soft-voting strategy.
 
-## 🚀 Implementation & Code
+## Implementation & Code
 
 To ensure reproducibility and provide access to the exact environment and datasets used, the full source code (including preprocessing, training, and evaluation) is hosted on **Kaggle**.
 
@@ -13,7 +13,7 @@ To ensure reproducibility and provide access to the exact environment and datase
   <img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open in Kaggle" height="40"/>
 </a>
 
-👉 **[Click here to view the Full Implementation on Kaggle](https://www.kaggle.com/code/anastasiaakr/ensemble-framework)**
+ **[Click here to view the Full Implementation on Kaggle](https://www.kaggle.com/code/anastasiaakr/ensemble-framework)**
 
 ---
 
